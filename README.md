@@ -58,6 +58,8 @@ i would hate to see it finished.
 
 🇸🇪🇸🇪<br>
 
+
+
 - 🚀  ESP Voice ASsistant<br>
 
 - 🚀  "Tell me a joke"<br>
@@ -75,6 +77,9 @@ i would hate to see it finished.
 - 🚀  "What time is it?" - Tells time day and date <br>
 
 - 🚀  "When is my package arriving?" , "When is mail delivery?"" <br>
+
+- 🚀  "whose at the door?" - setup using smart camera and frigate<br>
+
 
 - 🚀  "Set a timer for 8 minutes" - Start timers <br>
 
